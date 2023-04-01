@@ -1,32 +1,12 @@
-# Prerequisites
-*.d
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+/.vs/Coroutine
+/Coroutine/x64/Debug
+/packages/boost.1.81.0
+/x64/Debug
+/Coroutine/x64/Release
+/x64/Release
+/.vs/ATConnector
+/ATConnector/x64/Debug
